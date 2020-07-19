@@ -1,7 +1,7 @@
 # TensorFlow-NLP-Implementations
 
 <div align="center">
-<img src="https://github.com/raghavk16/Tensorflow-NLP-Implementations/blob/master/TF.png" alt="Raghav Khullar" width="150" height="150" />
+<img src="https://github.com/raghavk16/Tensorflow-NLP-Implementations/blob/master/TF.png" alt="Raghav Khullar" width="250" height="200" />
 </div>
 
 * Important TensorFlow implementation codes in Python3, created while learning and using NLP in TensorFlow-2.
