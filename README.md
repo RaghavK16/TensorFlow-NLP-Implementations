@@ -1,7 +1,7 @@
 # TensorFlow-NLP-Implementations
 
 <div align="center">
-<img src="https://github.com/raghavk16/Tensorflow-NLP-Implementations/blob/master/TF.png" alt="Raghav Khullar" width="250" height="200" />
+<img src="https://github.com/raghavk16/Tensorflow-NLP-Implementations/blob/master/TF.png" alt="Raghav Khullar" width="300" height="200" />
 </div>
 
 * Important TensorFlow implementation codes in Python3, created while learning and using NLP in TensorFlow-2.
@@ -22,7 +22,6 @@ pip install notebook
 
 ## Usage
 
-Congratulations, you have installed Jupyter Notebook! 
 To run the notebook, run the following command at the Terminal (Mac/Linux) or Command Prompt (Windows):
 
 ```bash
